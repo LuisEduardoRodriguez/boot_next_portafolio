@@ -16,13 +16,14 @@ export default function Home() {
                 <img src="/profile_ines.png" alt="profile Inés María" className="img-fluid" />
               </div>
               <div className="col-md-8">
-                <h1>Inés María Oliveros</h1>
+                <h1>Luis Eduardo Rodriguez Marin</h1>
                 <h3>FullStack Developer</h3>
                 <p>
                   Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                   Molestiae atque ullam perferendis harum, nisi porro voluptate,
                   iste consequuntur enim reprehenderit architecto consectetur cum?
-                  Totam ad molestias natus illum illo officia.
+                  Totam ad molestias natus illum
+                   officia.
                 </p>
                 <Link href="/hireme" className="btn btn-outline-light">
                   Hire Me

@@ -13,7 +13,7 @@ export default function Home() {
           <div className="card card-body bg-secondary text-light animate__animated animate__fadeIn">
             <div className="row">
               <div className="col-md-4 text-center">
-                <img src="/profile_ines.png" alt="profile Inés María" className="img-fluid" />
+                <img src="/profile_Luis.png" alt="profile Inés María" className="img-fluid" />
               </div>
               <div className="col-md-8">
                 <h1>Luis Eduardo Rodriguez Marin</h1>

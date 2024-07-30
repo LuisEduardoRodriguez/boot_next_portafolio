@@ -29,7 +29,7 @@ const Layout = ({ children, footer = true }) => {
     // Escucha el final exitoso de cambio de ruta
     router.events.on("routeChangeComplete", handleChangeComplete);
 
-    // Escucha el error en el cambio deruta
+    // Escucha el error en el cambio de ruta
     router.events.on("routeChangeError", handleChangeError);
     
     return () => {
@@ -49,7 +49,7 @@ const Layout = ({ children, footer = true }) => {
       { footer && (
         <footer className="bg-dark text-light text-center">
         <div className="container p-4">
-          <h1>&copy; Inés María Oliveros Portfolio</h1>
+          <h1>&copy; Luis Eduardo Rodriguez Marin Portfolio</h1>
           <p>2024 - {new Date().getFullYear()}</p>
           <p>All rights Reserved.</p>
         </div>

@@ -1,96 +1,78 @@
 export const skills = [
     {
       skill: "JavaScript",
-      percentage: 90,
+      percentage: 40,
     },
     {
       skill: "TypeScript",
-      percentage: 80,
+      percentage: 25,
     },
     {
       skill: "Node.js",
-      percentage: 98,
+      percentage: 30,
     },
     {
       skill: "Next.js",
-      percentage: 100,
+      percentage: 10,
     },
     {
       skill: "MongoDB",
-      percentage: 60,
+      percentage: 40,
     },
     {
       skill: "React.js",
-      percentage: 100,
+      percentage: 30,
     },
     {
       skill: "Bootstrap",
-      percentage: 100,
+      percentage: 90,
     },
   ];
   
   export const experiences = [
     {
-      title: "Software developer at Microsoft",
+      title: "Technical Coordinator at Cine Colombia",
       description:
         "Microsoft.com",
-      from: 2000,
-      to: 2005,
+      from: 2010,
+      to: 2019,
     },
     {
-      title: "Software developer at Google",
+      title: "Electrical technician in Casalimpia",
       description:
         "Google.com",
-      from: 2005,
-      to: 2007,
+      from: 2019,
+      to: 2021,
     },
     {
-      title: "Software developer at SpaceX",
+      title: "Automation Maintenance Technologist at Compenar",
       description:
         "SpaceX.com",
-      from: 2010,
+      from: 2022,
     },
   ];
   
   export const projects = [
     {
-      name: "Awesome Website 1",
+      name: "React Gallery",
       description:
         "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
       image: "portfolio1.png",
     },
     {
-      name: "Awesome Website 2",
+      name: "API Galeria",
       description:
         "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-      image: "portfolio1.png",
+      image: "portfolio2.png",
     },
     {
-      name: "Awesome Website 3",
+      name: "Contex API",
       description:
         "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-      image: "portfolio1.png",
-    },
-    {
-      name: "Awesome Website 4",
-      description:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-      image: "portfolio1.png",
-    },
-    {
-      name: "Awesome Website 5",
-      description:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-      image: "portfolio1.png",
-    },
-    {
-      name: "Awesome Website 6",
-      description:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-      image: "portfolio1.png",
+      image: "portfolio3.png",
     },
   ];
-  
+
   export const posts = [
     {
       title: "React",
